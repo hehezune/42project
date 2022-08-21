@@ -1,0 +1,5 @@
+Credentials cache: API:AADB94EF-61F5-4CAD-A1B6-F2844E9E1C9F
+        Principal: bonkim@42SEOUL.KR
+
+  Issued                Expires               Principal
+Apr 13 11:00:18 2022  Apr 13 21:00:18 2022  krbtgt/42SEOUL.KR@42SEOUL.KR
